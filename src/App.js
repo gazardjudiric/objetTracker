@@ -46,7 +46,8 @@ function App() {
         <Navbar />
         <Header />
       </header>
-      {visibility == true && window.location.pathname == user_1 ? (
+      {/* https://objettracker.netlify.app/ */}
+      {visibility == true ? (
         <div>
           <ModePerdu />
         </div>
