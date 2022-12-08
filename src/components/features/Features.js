@@ -20,7 +20,7 @@ const Features = () => {
       <div className="container features">
         <div className="title" data-aos="fade-up">
           <BsFillBookmarkStarFill color="orangered" size={30} />
-          <h2>Core Features</h2>
+          <h2>Caractériques Principales</h2>
         </div>
         <div className="features-content">
           <div className="features-left" data-aos="fade-right">

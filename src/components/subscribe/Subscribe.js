@@ -15,11 +15,11 @@ const Subscribe = () => {
   return (
     <section id="subscribe">
       <div className="container subscribe" data-aos="fade-up">
-        <h2>Subscribe now!</h2>
+        <h2>S'abonner maintenant!</h2>
         <form>
           <div className="form-control">
             <input type="text" placeholder="Enter Your Email..." />
-            <button>Subscribe</button>
+            <button>S'abonner</button>
           </div>
         </form>
         <div className="social-icons">
