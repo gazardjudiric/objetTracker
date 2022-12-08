@@ -46,9 +46,9 @@ h1 span:nth-child(3) {
   color: var(--color-white);
   width: 70%;
 }
-.header-left span {
+.modeperdu {
   font-size: 2rem;
-  color: orangered;
+  color: orangered !important;
 }
 
 .header-right img {

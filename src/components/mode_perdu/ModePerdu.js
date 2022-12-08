@@ -26,7 +26,8 @@ const ModePerdu = () => {
             <span>Mode Perdu Activé</span>
           </h1>
           <p className="u-text-small">
-            Ce objet a été egarré. Veillez appellez le <span> 61177215 </span>
+            Ce objet a été egarré. Veillez appellez le{" "}
+            <span className="modeperdu"> 61177215 </span>
             pour la restitution de ce objet Merci bien !
           </p>
           <div className="header-cta">
