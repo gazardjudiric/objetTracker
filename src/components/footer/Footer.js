@@ -38,19 +38,19 @@ const Footer = () => {
           <h4>Contact Us</h4>
           <div className="footer-contact u-text-small">
             <p>
-              <FaMapMarkerAlt /> &nbsp; Address: United States.
+              <FaMapMarkerAlt /> &nbsp; Address: Cotonou
             </p>
             <p>
-              <FaPhoneAlt /> &nbsp; Phone: +1230 123 1231.
+              <FaPhoneAlt /> &nbsp; Phone: +229 61177215.
             </p>
             <p>
-              <FaFax /> &nbsp; Fax: +12342762178
+              <FaFax /> &nbsp; Fax: +229 61177215
             </p>
             <p>
-              <FaEnvelope /> &nbsp; Email: info@socialx.com
+              <FaEnvelope /> &nbsp; Email: gazardjudiric@gmail.com
             </p>
             <p>
-              <FaGlobe /> &nbsp; Website: www.socialx.com
+              <FaGlobe /> &nbsp; Website: www.test.com
             </p>
           </div>
         </div>
@@ -61,7 +61,7 @@ const Footer = () => {
               bjet<span>Tracker</span>
             </p>
           </div>
-          <p className="u-text-small">&copy; Copyright 2021. Objetracker.com</p>
+          <p className="u-text-small">&copy; Copyright 2022. Objetracker.com</p>
         </div>
       </div>
     </section>

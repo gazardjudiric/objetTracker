@@ -28,6 +28,7 @@
 .features-left {
   flex: 1;
   text-align: center;
+  margin-right: 5rem;
 }
 .features-left img {
   width: 65%;
@@ -39,5 +40,8 @@
 @media screen and (max-width: 600px) {
   .features-content {
     flex-direction: column;
+  }
+  .video {
+    width: 320px;
   }
 }
