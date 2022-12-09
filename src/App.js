@@ -20,7 +20,7 @@ import {
 } from "./components";
 
 function App() {
-  const [visibility, setVisibility] = useState(true);
+  const [visibility, setVisibility] = useState(false);
   // console.log('current URL 👉️', window.location.href);
   // console.log('current Pathname 👉️', window.location.pathname);
   let user_1 = "/user_1";
