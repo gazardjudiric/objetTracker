@@ -4,7 +4,7 @@ import { BsFillBookmarkStarFill } from "react-icons/bs";
 import phoneFeatures from "../../assets/phone-features.png";
 import Feature from "./Feature";
 import { FeatureList } from "./data";
-import NosVid from "./Video/test.mp4";
+import ObjetTrackerVideo from "./Video/objetTrackerVideo.mp4";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -26,7 +26,7 @@ const Features = () => {
           <div className="features-left" data-aos="fade-right">
             {/* <img src={phoneFeatures} alt="phone" /> */}
             <video width="550" height="400" controls className="video">
-              <source src={NosVid} type="video/mp4"></source>
+              <source src={ObjetTrackerVideo} type="video/mp4"></source>
             </video>
           </div>
           <div className="features-right" data-aos="fade-left">
